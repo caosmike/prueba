@@ -4,3 +4,6 @@ un cambio mas
 
 
 para ver la salida del diff
+
+
+para el uso de merge
